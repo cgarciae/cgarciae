@@ -8,7 +8,7 @@ These are the projects which I am currently contributing to:
 - [Flax](https://github.com/google/flax): A neural network library and ecosystem for JAX designed for flexibility. 
 - [Pypeln](https://github.com/cgarciae/pypeln): A simple yet powerful Python library for creating concurrent data pipelines.
 - [Ciclo](https://github.com/cgarciae/ciclo): A functional training loops library for JAX.
-- [JAX Metrics](https://github.com/cgarciae/jax-metrics): A Metrics library for the JAX ecosystem.
+- [JAX Metrics](https://github.com/cgarciae/jax_metrics): A Metrics library for the JAX ecosystem.
 - [Simple Pytree](https://github.com/cgarciae/simple-pytree): A dead simple Python package for creating custom JAX pytree objects.
 
 Note: I contribute to Flax as part day job in a colaboration between Google and Quansight.
